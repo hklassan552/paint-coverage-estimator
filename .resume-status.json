@@ -1,0 +1,8 @@
+{
+  "outcome": "running",
+  "fix_type": "transient",
+  "resume_from": "build",
+  "message": "Resuming from build (transient)…",
+  "log": "projects/PaintCoverageEstimator/.resume-20261117-024120.log",
+  "attempted_at_epoch": 1794879681
+}

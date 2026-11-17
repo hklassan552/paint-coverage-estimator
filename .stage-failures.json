@@ -1,0 +1,16 @@
+{
+  "attempts": [
+    {
+      "stage": "codegen",
+      "raw_stage": "codegen",
+      "status": "PIPELINE_STARTED",
+      "at_epoch": 1794833821
+    },
+    {
+      "stage": "build",
+      "raw_stage": "build",
+      "status": "PIPELINE_INFRA_ERROR",
+      "at_epoch": 1794879679
+    }
+  ]
+}

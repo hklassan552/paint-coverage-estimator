@@ -1,0 +1,10 @@
+{
+  "attempts": 1,
+  "lastAt": 1794879676,
+  "kind": "infra",
+  "failureAt": 1794842511,
+  "firstAt": 1794879676,
+  "status": "PIPELINE_INFRA_ERROR",
+  "wasted": 0,
+  "by": "relief"
+}
